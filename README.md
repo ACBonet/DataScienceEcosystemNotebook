@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook created as part of a Data Science pr
 
 ## Contents
 
-- `notebook.ipynb`: The Jupyter Notebook with exercises covering:
+- `DataScienceEcosystem.ipynb`: The Jupyter Notebook with exercises covering:
   - Listing popular programming languages for Data Science
   - Overview of commonly used data science libraries
   - Examples of arithmetic expressions
